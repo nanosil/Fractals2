@@ -1,0 +1,12 @@
+c:\users\fernando\documents\visual studio 2012\Projects\Fractals\Fractals\bin\Debug\Fractals.exe.config
+c:\users\fernando\documents\visual studio 2012\Projects\Fractals\Fractals\bin\Debug\Fractals.exe
+c:\users\fernando\documents\visual studio 2012\Projects\Fractals\Fractals\bin\Debug\Fractals.pdb
+c:\users\fernando\documents\visual studio 2012\Projects\Fractals\Fractals\obj\Debug\Fractals.csprojResolveAssemblyReference.cache
+c:\users\fernando\documents\visual studio 2012\Projects\Fractals\Fractals\obj\Debug\Fractals.Form1.resources
+c:\users\fernando\documents\visual studio 2012\Projects\Fractals\Fractals\obj\Debug\Fractals.Properties.Resources.resources
+c:\users\fernando\documents\visual studio 2012\Projects\Fractals\Fractals\obj\Debug\Fractals.csproj.GenerateResource.Cache
+c:\users\fernando\documents\visual studio 2012\Projects\Fractals\Fractals\obj\Debug\Fractals.exe
+c:\users\fernando\documents\visual studio 2012\Projects\Fractals\Fractals\obj\Debug\Fractals.pdb
+C:\Users\Fernando\OneDrive\FERR\My Programs\Fractals\Fractals\bin\Debug\Fractals.exe.config
+C:\Users\Fernando\OneDrive\FERR\My Programs\Fractals\Fractals\obj\Debug\Fractals.exe
+C:\Users\Fernando\OneDrive\FERR\My Programs\Fractals\Fractals\obj\Debug\Fractals.pdb
